@@ -1,4 +1,10 @@
-### 안녕👋 
+
+ <div align=center>
+  ### 안녕👋 
+  ## Introduction
+  # 안녕하세요 얇고 넓게 다양한 기술들을 사용해왔고, 서툴지도 다루어 보았습니다.
+  # Back-end 쪽에 관심이 있고 열정 가득한 개발입니다.
+
 
 <!-- 
 
@@ -40,7 +46,7 @@ https://github.com/JangJeaHun/samyang
 https://github.com/JangJeaHun/portfolio
 
 -->
-
+</div>
 
 
 
