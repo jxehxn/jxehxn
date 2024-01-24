@@ -5,8 +5,7 @@
 **jxehxn/jxehxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn)](https://github.com/jxehxn) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)](https://github.com/jxehxn) ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaeHunJang%20&fontSize=90&animation=blinking)
 
 - 🔭 I’m currently working on ...
@@ -19,7 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)
 
@@ -38,9 +38,6 @@ https://github.com/JangJeaHun/officedepot
 https://github.com/JangJeaHun/samyang
 
 https://github.com/JangJeaHun/portfolio
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn)](https://github.com/jxehxn) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)](https://github.com/jxehxn)
 
 -->
 
