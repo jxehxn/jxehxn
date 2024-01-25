@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn&show_icons=true&theme=dark)
 
 
 
