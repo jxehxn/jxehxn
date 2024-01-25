@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/jxehxn/jxehxn/blob/output/github-contribution-grid-snake.svg"/>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaeHunJang%20&fontSize=90&animation=blinking)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn)](https://github.com/jxehxn) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)](https://github.com/jxehxn)
 
 - 🔭 I’m currently working on ...
