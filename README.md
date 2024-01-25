@@ -36,10 +36,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)
 
