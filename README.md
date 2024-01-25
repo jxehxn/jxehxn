@@ -39,10 +39,6 @@ Here are some ideas to get you started:
  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaeHunJang%20&fontSize=90&animation=blinking)
 
 
-https://github.com/JangJeaHun/SNL-website
-
-https://github.com/JangJeaHun/Yami-Website
-
 https://github.com/JangJeaHun/Keep-going
 
 https://github.com/JangJeaHun/officedepot
