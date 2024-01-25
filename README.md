@@ -1,4 +1,4 @@
-!([https://github.com/jxehxn/jxehxn/blob/output/github-contribution-grid-snake.gif])
+[!([https://github.com/jxehxn/jxehxn/blob/output/github-contribution-grid-snake.gif])](https://github.com/jxehxn/jxehxn/blob/output/github-contribution-grid-snake-dark.svg)
 
 
  <div align=center>
