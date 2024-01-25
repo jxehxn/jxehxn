@@ -1,5 +1,4 @@
-<img src="https://github.com/jxehxn/jxehxn/blob/output/github-contribution-grid-snake.svg"/>
-
+![snake gif](https://github.com/jxehxn/jxehxn/blob/output/github-contribution-grid-snake.svg)
 
  <div align=center>
   
@@ -23,9 +22,11 @@
 
 Here are some ideas to get you started:
 
-<img src="https://github.com/jxehxn/jxehxn/blob/output/github-contribution-grid-snake.svg"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn)](https://github.com/jxehxn) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)](https://github.com/jxehxn)
+![snake gif](https://github.com/jxehxn/jxehxn/blob/output/github-contribution-grid-snake.svg)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn)](https://github.com/jxehxn) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)](https://github.com/jxehxn) ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaeHunJang%20&fontSize=90&animation=blinking)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -36,25 +37,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&height=200&color=imeGradient&text=I'm%20Jxehxn&descAlign=60&textBg=false&fontColor=ffffff&reversal=true)
-
-https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JxeHxn%20&fontSize=90&animation=blinking
-
-
-![header](https://capsule-render.vercel.app/api?&color=222222&text=JxeHxn&height=200&fontSize=90&fontColor=ffffff)
-
-
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=ffffff)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaeHunJang%20&fontSize=90&animation=blinking)
 
 
 https://github.com/JangJeaHun/Keep-going
@@ -67,6 +57,3 @@ https://github.com/JangJeaHun/portfolio
 
 -->
 </div>
-
-
-
