@@ -44,7 +44,7 @@ Here are some ideas to get you started:
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn&show_icons=true&theme=dark)
 
-[[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JxeHxn%20&fontSize=90&animation=blinking)](https://capsule-render.vercel.app/api?type=soft&height=200&text=I'm%20Jxehxn&descAlign=60&textBg=false&fontColor=ffffff)]
+[[![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=300&section=header&text=JxeHxn%20&fontSize=90&animation=blinking)](https://capsule-render.vercel.app/api?type=soft&height=200&color=#222222&text=I'm%20Jxehxn&descAlign=60&textBg=false&fontColor=ffffff)]
 
 
 
