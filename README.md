@@ -23,8 +23,10 @@
 
 Here are some ideas to get you started:
 
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaeHunJang%20&fontSize=90&animation=blinking)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn)](https://github.com/jxehxn) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)](https://github.com/jxehxn) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn)](https://github.com/jxehxn) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)](https://github.com/jxehxn)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -39,11 +41,12 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)[![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)
 
 
  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaeHunJang%20&fontSize=90&animation=blinking)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)
+
 
 https://github.com/JangJeaHun/Keep-going
 
