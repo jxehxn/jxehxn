@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)
+[![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=luvsoul)](https://solved.ac/luvsoul)
 
 
