@@ -10,7 +10,7 @@
   #### 사용해왔고, 서툴어도 다루어 보았습니다.
   
   #### Back-end 쪽에 관심이 있고 열정 가득한 개발인간 입니다.
-
+<img src="https://github.com/jxehun/jxehun/blob/output/github-contribution-grid-snake.svg"/>
 
 <!-- 
 
