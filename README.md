@@ -1,4 +1,5 @@
-![snake gif](https://github.com/jxehxn/jxehxn/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 
  <div align=center>
   
@@ -21,9 +22,6 @@
 **jxehxn/jxehxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
-![snake gif](https://github.com/jxehxn/jxehxn/blob/output/github-contribution-grid-snake.svg)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn)](https://github.com/jxehxn) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)](https://github.com/jxehxn) ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaeHunJang%20&fontSize=90&animation=blinking)
