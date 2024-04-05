@@ -46,6 +46,15 @@
 
   - illustration
 
+<h2>career</h2>
+
+###☀️개미는 뚠뚠 (모의주식 투자 게임)
+      “자바를 이용한 모의 주식 투자 게임”개발
+      
+![메인화면사진](https://github.com/jxehxn/jxehxn/assets/26495915/cf5ed74d-5d2a-496c-895e-3c33dd7cde4d)
+
+~  2024. 02. 02. 
+
 
 
 
@@ -64,8 +73,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn&show_icons=true&theme=dark)
-
-
 
 
 
