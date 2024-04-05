@@ -5,7 +5,7 @@
   
   #  버그를 잘 잡는 인간 에프킬라_개발자 장재훈👋 
   
-<h2>Introduction</h2>
+<h2>자기소개</h2>
   
   #### - 돈? 명예? 다 중요하지만 중꺽개! 중요한 것은 꺽이지 않는 개발자!
   
@@ -15,10 +15,13 @@
   
   #### - Back-end 쪽에 관심이 있고 버그를 잘 잡는 인간 에프킬라_개발자 장재훈입니다.
 
-<a href="https://blog.naver.com/wkdwogns2345" width="50px"> <img src="https://i.namu.wiki/i/XFUBTKWFH2uX1cr7zj7diV2XtLF-47ZaUtQ_4QJsUdXn9abPpS_h5H8JFoo1oJS0C10aGmbbhjVDs7S8mR2EilTUg9n0lr6xADuJ0cEXB5D7jkAzLsHB1u7cnVivvmsupV-0o74AhTnDmni9lk6RCA.svg"></a>
 
+#### Email : wkdwogns2345@naver.com
+#### Github : https://github.com/jxehxn
+#### Blog :   <a href="https://blog.naver.com/wkdwogns2345" width="50px"> <img src="https://i.namu.wiki/i/XFUBTKWFH2uX1cr7zj7diV2XtLF-47ZaUtQ_4QJsUdXn9abPpS_h5H8JFoo1oJS0C10aGmbbhjVDs7S8mR2EilTUg9n0lr6xADuJ0cEXB5D7jkAzLsHB1u7cnVivvmsupV-0o74AhTnDmni9lk6RCA.svg"></a>
 
 </div>
+
 
 
 <div>
