@@ -81,6 +81,67 @@
 
 </table>
 
+
+<table>
+ 
+<tr>
+ <td rowspan=4>
+  2024. 02. 23 ~ 2024. 04. 04.      
+ </td>
+ <td >
+  <h3>
+   
+  ☀️고물가시대 직장인(도시락족)을 위한 도시락 가이드 서비스
+  </h3>
+ </td>
+</tr>
+
+<tr>
+ <td>
+      프로젝트 팀장으로 전체적인 일정 관리 등 PM 역할 수행 
+ </td>    
+</tr>
+
+
+
+<tr>
+ <td>
+      피그마로 이용한 디자인 설계
+ </td>    
+</tr>
+
+
+
+<tr>
+ <td>
+      전체적인 프론트 화면 디자인 코드 구현
+ </td>    
+</tr>
+
+<tr>
+ <td>
+      네이버 API 이용한 로그인 구현
+ </td>    
+</tr>
+
+<tr>
+ <td>
+      해시태그 - AJAX비동신 통신 구현
+ </td>    
+</tr>
+
+<tr>
+ <td>
+      AJAX비동기로 차트 구현
+ </td>    
+</tr>
+
+<tr>
+ <td>
+      AJAX비동기로 차트 구현
+ </td>    
+</tr>
+</table>
       
 ![메인화면사진](https://github.com/jxehxn/jxehxn/assets/26495915/cf5ed74d-5d2a-496c-895e-3c33dd7cde4d)
 
