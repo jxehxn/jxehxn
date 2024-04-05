@@ -27,21 +27,22 @@
 <h2>Technichal Skills</h2>
 
 ### ☀️Programming Language
-Java
-Python
-C
+🔥Java
+🔥Python
+🔥C
 
 
 ### ☀️Frond-end
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Spring&logoColor=white">
+🔥<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Spring&logoColor=white">
+🔥<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Spring&logoColor=white">
+🔥<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Spring&logoColor=white">
 
 ### ☀️Back-end
-JSP/Servlet
+🔥JSP/Servlet
 
 ### ☀️ETC
-
+🔥Photoshop
+🔥illustration
 
 
 
