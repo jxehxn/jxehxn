@@ -48,7 +48,7 @@
 
 <h2>Career</h2>
 
-
+![메인화면사진](https://github.com/jxehxn/jxehxn/assets/26495915/cf5ed74d-5d2a-496c-895e-3c33dd7cde4d)
 
 <table>
 <tr> 
@@ -202,7 +202,7 @@
 
 </table>
       
-![메인화면사진](https://github.com/jxehxn/jxehxn/assets/26495915/cf5ed74d-5d2a-496c-895e-3c33dd7cde4d)
+
 
 
 </div>
