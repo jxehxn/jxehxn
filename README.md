@@ -3,7 +3,7 @@
 
 <div align=left>
   
-<h2>Introduction</h2>
+<h1>Introduction</h1>
 
   ## 🪳버그를 잘 잡는 인간 🔫에프킬라_개발자 장재훈👋 
   
@@ -17,13 +17,13 @@
   #### - Back-end 쪽에 관심이 있고 버그를 잘 잡는 인간 에프킬라 장재훈입니다.
 
 
-<h2>Contact & Channel</h2>
+<h1>Contact & Channel</h1>
 
 #### Email : wkdwogns2345@naver.com
 #### Github : https://github.com/jxehxn
 #### Blog :  https://blog.naver.com/wkdwogns2345 
 
-<h2>Technichal Skills</h2>
+<h1>Technichal Skills</h1>
 
 ### ☀️Programming Language
   - Java
@@ -46,7 +46,7 @@
 
   - illustration
 
-<h2>Career</h2>
+<h1>Career</h1>
 
 ![메인화면사진](https://github.com/jxehxn/jxehxn/assets/26495915/cf5ed74d-5d2a-496c-895e-3c33dd7cde4d)
 
@@ -196,7 +196,7 @@
 
 </table>
 
-<h2>Education</h2>    
+<h1>Education</h1>    
 
 
 
