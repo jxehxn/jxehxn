@@ -65,10 +65,13 @@
 <tr>
   <td rowspan=5>
   2024. 01. 31 ~ 2024. 02. 02.
+   <br>
   투입인원 : 4명
   <p>팀장</p> 
-  <p>Backend</p> 
-  <p>Frontend</p>
+   
+  Backend
+  
+  Frontend
  </td>
  <td>
       해당 프로젝트에서 총괄을 담당하여, 전체적인 프로젝트의 일정관리, 전체적인 오류 디버깅작업 수행
@@ -102,27 +105,47 @@
 </table>
 
 
+
+
+
+
 <table>
  
 <tr>
- <td rowspan=10>
-  2024. 02. 23 ~ 2024. 04. 04.
-  투입인원 : 4명
-  <p>팀장</p>
-  <p>Backend</p> 
-  <p>Frontend</p>
-  <p>Design</p> 
-  
- </td>
- <td >
+
+
+
+
+ <tr> 
+ <td colspan=2>
   <h3>
-   
+
   ☀️고물가시대 직장인(도시락족)을 위한 도시락 가이드 서비스
   </h3>
  </td>
+ 
 </tr>
 
+
+
+
+
+
+
 <tr>
+  <td rowspan=10>
+  2024. 02. 23 ~ 2024. 04. 04.
+  투입인원 : 4명
+  <p>팀장</p>
+   
+  Backend
+   
+  Frontend
+   
+  Design
+  
+ </td>
+ 
  <td>
       프로젝트 팀장으로 전체적인 일정 관리 등 PM 역할 수행
  </td>    
