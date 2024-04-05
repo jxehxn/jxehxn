@@ -48,10 +48,10 @@
 
 <h2>Career</h2>
 
-<table>
-<tr>
 
- 
+
+<table>
+<tr> 
  <td colspan=2>
   <h3>
    
@@ -101,8 +101,10 @@
       프로젝트 PPT 제작
  </td>    
 </tr>
+[Uploading 미니프로젝트_PPT_최종.pptx…]()
 
 </table>
+
 
 
 
