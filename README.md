@@ -101,10 +101,36 @@
       프로젝트 PPT 제작
  </td>    
 </tr>
-[Uploading 미니프로젝트_PPT_최종.pptx…]()
+
+[미니프로젝트_PPT_최종.pptx](https://github.com/jxehxn/jxehxn/files/14881691/_PPT_.pptx)
 
 </table>
-
+<table class="team-contacts">
+    <thead>
+      <tr>
+        <th>장재훈</th>
+        <th>PM, Back-End, Front-End, Design</th>
+        <th><a href="https://github.com/jxehxn">github</a></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>송민혁</td>
+        <td>Front-End, Crawling, Design</td>
+        <td><a href="https://github.com/Song-Min-Hyeok">github</a></td>
+      </tr>
+      <tr>
+        <td>김시은</td>
+        <td>DB, Crawling, Back-End</td>
+        <td><a href="https://github.com/sinni16">github</a> </td>
+      </tr>
+      <tr>
+        <td>최영재</td>
+        <td>자료수집,디자인</td>
+        <td><a href="https://github.com/choi-youngjae">github</a></td>
+      </tr>
+    </tbody>
+  </table>
 
 
 
@@ -112,12 +138,7 @@
 
 
 <table>
- 
 <tr>
-
-
-
-
  <tr> 
  <td colspan=2>
   <h3>
@@ -127,11 +148,6 @@
  </td>
  
 </tr>
-
-
-
-
-
 
 
 <tr>
@@ -205,12 +221,13 @@
       프로젝트의 전체 오류 디버깅
  </td>    
 </tr>
+
+[7.재훈팀_최종기획발표.pptx](https://github.com/jxehxn/jxehxn/files/14881697/7._.pptx)
+
+
 </table>
       
 ![메인화면사진](https://github.com/jxehxn/jxehxn/assets/26495915/cf5ed74d-5d2a-496c-895e-3c33dd7cde4d)
-
-
-
 
 
 </div>
