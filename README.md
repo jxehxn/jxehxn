@@ -21,31 +21,33 @@
 
 #### Email : wkdwogns2345@naver.com
 #### Github : https://github.com/jxehxn
-#### Blog :   <a href="https://blog.naver.com/wkdwogns2345" style="width=50px"> <img src="https://i.namu.wiki/i/XFUBTKWFH2uX1cr7zj7diV2XtLF-47ZaUtQ_4QJsUdXn9abPpS_h5H8JFoo1oJS0C10aGmbbhjVDs7S8mR2EilTUg9n0lr6xADuJ0cEXB5D7jkAzLsHB1u7cnVivvmsupV-0o74AhTnDmni9lk6RCA.svg"></a>
+#### Blog :  https://blog.naver.com/wkdwogns2345 
+
+<a href="https://blog.naver.com/wkdwogns2345" style="width=50px"> <img src="https://i.namu.wiki/i/XFUBTKWFH2uX1cr7zj7diV2XtLF-47ZaUtQ_4QJsUdXn9abPpS_h5H8JFoo1oJS0C10aGmbbhjVDs7S8mR2EilTUg9n0lr6xADuJ0cEXB5D7jkAzLsHB1u7cnVivvmsupV-0o74AhTnDmni9lk6RCA.svg"></a>
 
 
 <h2>Technichal Skills</h2>
 
 ### ☀️Programming Language
-- Java
+  - Java
 
-- Python
+  - Python
 
-- C
+  - C
 
 
 ### ☀️Frond-end
-- HTML5
-- JavaScript
-- CSS3
+  - HTML5
+  - JavaScript
+  - CSS3
 
 ### ☀️Back-end
-- JSP/Servlet
+  - JSP/Servlet
 
 ### ☀️ETC
-- Photoshop
+  - Photoshop
 
-- illustration
+  - illustration
 
 
 
