@@ -14,7 +14,7 @@
 
   #### - 나를 죽이지 못하는 고통은, 나를 더 성장 시킨다 라는 생각으로 코드에 몰두 하여 개발 연구 하고 있으며
   
-  #### - Back-end 쪽에 관심이 있고 버그를 잘 잡는 인간 에프킬라_개발자 장재훈입니다.
+  #### - Back-end 쪽에 관심이 있고 버그를 잘 잡는 인간 에프킬라 장재훈입니다.
 
 
 <h2>Contact & Channel</h2>
@@ -22,9 +22,6 @@
 #### Email : wkdwogns2345@naver.com
 #### Github : https://github.com/jxehxn
 #### Blog :  https://blog.naver.com/wkdwogns2345 
-
-<a href="https://blog.naver.com/wkdwogns2345" width="50px"> <img src="https://i.namu.wiki/i/XFUBTKWFH2uX1cr7zj7diV2XtLF-47ZaUtQ_4QJsUdXn9abPpS_h5H8JFoo1oJS0C10aGmbbhjVDs7S8mR2EilTUg9n0lr6xADuJ0cEXB5D7jkAzLsHB1u7cnVivvmsupV-0o74AhTnDmni9lk6RCA.svg"></a>
-
 
 <h2>Technichal Skills</h2>
 
