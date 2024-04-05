@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=버그 잡는 에프킬러%20&fontSize=90&animation=blinking)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JangJeahun%20&fontSize=90&animation=blinking)
 ![snake gif](https://github.com/jxehxn/jxehxn/blob/output/github-contribution-grid-snake.svg)
 
 <div align=left>
