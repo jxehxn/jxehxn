@@ -1,11 +1,11 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaeHunJang%20&fontSize=90&animation=blinking)
 ![snake gif](https://github.com/jxehxn/jxehxn/blob/output/github-contribution-grid-snake.svg)
 
- <div align=center>
+<div align=left>
   
   # 안녕👋 
   
-  <h2>Introduction</h2>
+<h2>Introduction</h2>
   
   #### - 돈? 명예? 다 중요하지만 중꺽개! 중요한 것은 꺽이지 않는 개발자!
   
@@ -14,7 +14,7 @@
   #### - 나를 죽이지 못하는 고통은, 나를 더 성장 시킨다 라는 생각으로 코드에 몰두 하여 개발 연구 하고 있으며
   
   #### - Back-end 쪽에 관심이 있고 버그를 잘 잡는 인간 에프킬라_개발자 장재훈입니다.
-
+</div>
 
 <!-- 
 
@@ -25,8 +25,7 @@
 
 Here are some ideas to get you started:
 
-
-
+<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn)](https://github.com/jxehxn) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)](https://github.com/jxehxn) ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaeHunJang%20&fontSize=90&animation=blinking)
 
 - 🔭 I’m currently working on ...
