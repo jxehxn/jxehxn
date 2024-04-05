@@ -52,6 +52,7 @@
 <tr>
  <td rowspan=4>
   2024. 01. 31 ~ 2024. 02. 02.
+  <p>팀장</p> 
   <p>Backend</p> 
   <p>Frontend</p>
  </td>
@@ -88,7 +89,12 @@
  
 <tr>
  <td rowspan=6>
-  2024. 02. 23 ~ 2024. 04. 04.      
+  2024. 02. 23 ~ 2024. 04. 04. 
+  <p>팀장</p>
+  <p>Backend</p> 
+  <p>Frontend</p>
+  <p>Design</p> 
+  
  </td>
  <td >
   <h3>
