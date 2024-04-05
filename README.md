@@ -27,25 +27,25 @@
 <h2>Technichal Skills</h2>
 
 ### ☀️Programming Language
-🔥Java
+- Java
 
-🔥Python
+- Python
 
-🔥C
+- C
 
 
 ### ☀️Frond-end
-🔥HTML5
-🔥JavaScript
-🔥CSS3
+- HTML5
+- JavaScript
+- CSS3
 
 ### ☀️Back-end
-🔥JSP/Servlet
+- JSP/Servlet
 
 ### ☀️ETC
-🔥Photoshop
+- Photoshop
 
-🔥illustration
+- illustration
 
 
 
