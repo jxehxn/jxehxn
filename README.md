@@ -23,6 +23,17 @@
 #### Github : https://github.com/jxehxn
 #### Blog :   <a href="https://blog.naver.com/wkdwogns2345" style="width=50px"> <img src="https://i.namu.wiki/i/XFUBTKWFH2uX1cr7zj7diV2XtLF-47ZaUtQ_4QJsUdXn9abPpS_h5H8JFoo1oJS0C10aGmbbhjVDs7S8mR2EilTUg9n0lr6xADuJ0cEXB5D7jkAzLsHB1u7cnVivvmsupV-0o74AhTnDmni9lk6RCA.svg"></a>
 
+
+<h2>Technichal Skills</h2>
+
+###Frond-end
+###Back-end
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Spring&logoColor=white">
+
+
+
+
 </div>
 
 
