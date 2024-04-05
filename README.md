@@ -28,7 +28,9 @@
 
 ### ☀️Programming Language
 🔥Java
+
 🔥Python
+
 🔥C
 
 
@@ -42,6 +44,7 @@
 
 ### ☀️ETC
 🔥Photoshop
+
 🔥illustration
 
 
