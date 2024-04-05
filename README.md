@@ -5,7 +5,7 @@
   
   #  버그를 잘 잡는 인간 에프킬라_개발자 장재훈👋 
   
-<h2>자기소개</h2>
+<h2>Introduction</h2>
   
   #### - 돈? 명예? 다 중요하지만 중꺽개! 중요한 것은 꺽이지 않는 개발자!
   
@@ -15,6 +15,8 @@
   
   #### - Back-end 쪽에 관심이 있고 버그를 잘 잡는 인간 에프킬라_개발자 장재훈입니다.
 
+
+<h2>Contact & Channel</h2>
 
 #### Email : wkdwogns2345@naver.com
 #### Github : https://github.com/jxehxn
