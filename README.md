@@ -67,6 +67,7 @@
   2024. 01. 31 ~ 2024. 02. 02.
    <br>
   투입인원 : 4명
+  -맡은역할-
   팀장 
    
   Backend
@@ -75,7 +76,8 @@
   
 
   [PPT_다운로드](https://github.com/jxehxn/jxehxn/files/14881691/_PPT_.pptx)
-
+  
+  https://github.com/2023-SMHRD-KDT-AI-16/FFRepo
 
 
  </td>
@@ -128,6 +130,7 @@
   2024. 02. 23 ~ 2024. 04. 04.
    
   투입인원 : 4명
+  -맡은역할-
   <p>팀장</p>
    
   Backend
@@ -135,9 +138,10 @@
   Frontend
    
   Design
-
+ 
   [PPT_다운로드](https://github.com/jxehxn/jxehxn/files/14881697/7._.pptx)
   
+   https://github.com/2023-SMHRD-KDT-AI-16/BSIL.X
  </td>
  
  <td>
@@ -188,6 +192,83 @@
 <tr>
  <td>
       프로젝트의 전체 오류 디버깅
+ </td>    
+</tr>
+
+
+
+
+</table>
+
+<table>
+<tr>
+ <tr> 
+ <td colspan=2>
+  <h3>
+
+  ☀️Spring Boot 이용한 웹사이트 구축중
+  </h3>
+ </td>
+ 
+</tr>
+
+
+<tr>
+  <td rowspan=9>
+  2024. 04. 07 ~ 
+   
+  투입인원 : 1명
+  <p>개인프로젝트</p>
+  https://github.com/jxehxn/SpringBootWeb
+ </td>
+ 
+ <td>
+     
+ </td>    
+</tr>
+
+
+
+<tr>
+ <td>
+    
+ </td>    
+</tr>
+
+
+
+<tr>
+ <td>
+      
+ </td>    
+</tr>
+
+<tr>
+ <td>
+     
+ </td>    
+</tr>
+
+<tr>
+ <td>
+     
+ </td>    
+</tr>
+
+<tr>
+ <td>
+      
+ </td>    
+</tr>
+
+<tr>
+ <td>
+    
+</tr>
+
+<tr>
+ <td>
+     
  </td>    
 </tr>
 
