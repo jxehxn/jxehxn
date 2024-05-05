@@ -40,6 +40,7 @@
 
 ### ☀️Back-end
   - JSP/Servlet
+  - Spring Boot
 
 ### ☀️ETC
   - Photoshop
