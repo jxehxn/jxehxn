@@ -274,6 +274,111 @@
 </tr>
 
 
+<table>
+
+ 
+
+<tr>
+
+ 
+
+# 📎 딥러닝 모델을 통한 태양광 발전량 예측 솔루션(팀명: ASSEMBLE)
+
+
+
+## 👀 서비스 소개
+* 서비스명:  딥러닝 모델을 통한 태양광 발전량 예측 솔루션
+* 서비스설명: 태양광 발전량 예측량을 원하는 사용자들을 위한 서비스로, 2014~2023년의 기상, 대기오염, 태양광발전량 데이터을 분석하여 다음날의 태양광 발전량을 예측하는 서비스입니다.
+<br>
+
+## 📅 프로젝트 기간
+2024.05.27 ~ 2024.06.20 (4주)
+<br>
+
+## ⭐ 주요 기능
+* 회원가입
+* 공지사항
+* 슬라이드
+* SMP, REC
+* 태양광 관련 뉴스
+* 게시판
+* 예측한 발전량(하루,시간)
+* 실제의 발전량
+* 모델 정확도
+* 과거의 오늘날 발전량
+* 인공위성 사진
+<br>
+
+## ⛏ 기술스택
+<table>
+    <tr>
+        <th>구분</th>
+        <th>내용</th>
+    </tr>
+    <tr>
+        <td>사용언어</td>
+        <td>
+            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+        </td>
+    </tr>
+     <tr>
+        <td>프레임워크</td>
+        <td>
+            <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>디자인</td>
+        <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td>
+    </tr>
+    <tr>
+        <td>라이브러리</td>
+        <td>
+            <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=css3&logoColor=black">
+            <img src="https://img.shields.io/badge/chartdotjs-FF6384?style=for-the-badge&logo=css3&logoColor=black">
+        </td>
+    </tr>
+    <tr>
+        <td>개발도구</td>
+        <td>
+            <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+            <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>서버환경</td>
+        <td>
+            <img src="https://img.shields.io/badge/Apache Tomcat-D22128?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>데이터베이스</td>
+        <td>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>협업도구</td>
+        <td>
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+        </td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
 
 
 </table>
