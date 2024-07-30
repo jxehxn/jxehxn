@@ -276,26 +276,19 @@
 
 <table>
 
- 
-
 <tr>
 
- 
-
 # 📎 딥러닝 모델을 통한 태양광 발전량 예측 솔루션(팀명: ASSEMBLE)
-
-
-
-## 👀 서비스 소개
+### 👀 서비스 소개
 * 서비스명:  딥러닝 모델을 통한 태양광 발전량 예측 솔루션
 * 서비스설명: 태양광 발전량 예측량을 원하는 사용자들을 위한 서비스로, 2014~2023년의 기상, 대기오염, 태양광발전량 데이터을 분석하여 다음날의 태양광 발전량을 예측하는 서비스입니다.
 <br>
 
-## 📅 프로젝트 기간
+### 📅 프로젝트 기간
 2024.05.27 ~ 2024.06.20 (4주)
 <br>
 
-## ⭐ 주요 기능
+### ⭐ 주요 기능
 * 회원가입
 * 공지사항
 * 슬라이드
@@ -309,7 +302,7 @@
 * 인공위성 사진
 <br>
 
-## ⛏ 기술스택
+### ⛏ 기술스택
 <table>
     <tr>
         <th>구분</th>
@@ -369,6 +362,10 @@
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
         </td>
     </tr>
+ 
+링   크
+https://github.com/2023-SMHRD-KDT-AI-16/ASSEMBLE
+
 </table>
 
 
@@ -426,6 +423,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxehxn&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxehxn&show_icons=true&theme=dark)
+
+github - https://github.com/JangJeaHun/Keep-going
+site주소 - https://jxehxn.github.io/Keep-going/
+
+
+
+
+
+
+
 
 
 
